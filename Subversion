@@ -1,0 +1,11 @@
+Subversion (SVN)
+ Introdução:
+Controle de versão é a arte de gerenciar mudanças em informações. Para programadores,
+é um paradigma obrigatório a ser seguido para assegurar a saúde do código-fonte,
+ainda mais em grandes equipes atuando cada qual em partes distintas de um projeto.
+O Subversion, ou simplesmente SVN, é uma ferramenta de controle de versão muito poderosa que permite,
+além do desenvolvimento colaborativo a partir de um repositório único, merge de conteúdo,
+armazenamento de logs e geração de estatísticas diversas.
+Atuando como a máquina do tempo do desenvolvedor, ferramentas com o SVN permitem retornar o código a um estado anterior,
+facilitando a análise implementações realizadas e a mesclagem de implementações distintas de períodos
+diferentes para a criação de uma única versão.
